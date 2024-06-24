@@ -1,11 +1,8 @@
-# **Group Project 268701**
+# **Group Project**
 ## **Artificial Intelligence & Machine Learning 2022 - 2023**
 
 ### *Group Members:*
-- Davide Beltrame, 268701
-- Demetrio Francesco Cardile, 267281
-- Mariasole Mohn, 268651
-
+- Demetrio Francesco Cardile
 
 ## **1) Introduction**
 We have received bank details and credit-related data from the greatest financial company in the world: 
