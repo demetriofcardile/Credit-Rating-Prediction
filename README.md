@@ -1,9 +1,6 @@
 # **Group Project**
 ## **Artificial Intelligence & Machine Learning 2022 - 2023**
 
-### *Group Members:*
-- Demetrio Francesco Cardile
-
 ## **1) Introduction**
 We have received bank details and credit-related data from the greatest financial company in the world: 
 we need to help develop targeted products for their users by dividing them into 
